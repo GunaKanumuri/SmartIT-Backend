@@ -51,4 +51,4 @@ streamlit run app.py
 
 **Guna Kanumuri**  
 🔗 [LinkedIn](https://www.linkedin.com/in/guna-kanumuri)  
-📧 gunakanumuri@gmail.com
+📧 gunakanumuri5@gmail.com
