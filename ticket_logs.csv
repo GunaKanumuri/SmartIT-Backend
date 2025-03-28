@@ -1,0 +1,68 @@
+timestamp,ticket_text,predicted_category
+2025-03-26 15:10:43,"Can't connect to Wi-Fi
+",Software
+2025-03-26 15:10:55,“Word keeps freezing”,Software
+2025-03-26 15:10:57,“Word keeps freezing”,Software
+2025-03-26 15:10:57,“Word keeps freezing”,Software
+2025-03-26 15:10:57,“Word keeps freezing”,Software
+2025-03-26 15:11:07,“Laptop won’t charge”,Software
+2025-03-26 15:13:23,Can’t connect to Wi-Fi,Software
+2025-03-26 15:13:30,Word keeps freezing,Software
+2025-03-26 15:13:40,Laptop won’t charge,Software
+2025-03-26 15:27:47,Laptop won’t charge,Software
+2025-03-26 15:31:12,Word keeps freezing,Software
+2025-03-26 15:43:00,Can’t connect to Wi-Fi,Software
+2025-03-28 12:44:39,My laptop won’t turn on,Network
+2025-03-28 12:45:03,Microsoft Word keeps crashing when I open it,Software
+2025-03-28 12:45:16,I’m unable to connect to the internet,Network
+2025-03-28 12:45:31,Laptop gets very hot when charging,Network
+2025-03-28 12:45:46,I can’t install Zoom on my computer,Network
+2025-03-28 12:46:07,My mouse isn't responding at all,Network
+2025-03-28 12:46:27,VPN disconnects every few minutes,Network
+2025-03-28 12:46:43,Wi-Fi signal is weak in my office,Network
+2025-03-28 12:47:00,Outlook won’t launch after login,Software
+2025-03-28 12:47:13,Excel formulas aren’t calculating properly,Software
+2025-03-28 12:47:27,I can’t install Zoom on my computer,Network
+2025-03-28 12:47:45,Keyboard keys are stuck or unresponsive,Hardware
+2025-03-28 12:57:59,My laptop won’t turn on,Hardware
+2025-03-28 12:58:22,"The screen is flickering randomly
+",Hardware
+2025-03-28 12:58:50,"My mouse isn't responding at all
+",Hardware
+2025-03-28 12:59:05,"Laptop gets very hot when charging
+
+",Hardware
+2025-03-28 12:59:20,"Keyboard keys are stuck or unresponsive
+
+",Hardware
+2025-03-28 12:59:37,"Microsoft Word keeps crashing when I open it
+
+
+",Software
+2025-03-28 12:59:53,"I can’t install Zoom on my computer
+
+
+",Software
+2025-03-28 13:00:07,"Outlook won’t launch after login
+
+
+",Hardware
+2025-03-28 13:00:30,"Excel formulas aren’t calculating properly
+
+
+",Software
+2025-03-28 13:00:50,"Antivirus keeps showing update errors
+
+
+",Software
+2025-03-28 13:01:09,"I’m unable to connect to the internet
+
+",Network
+2025-03-28 13:01:22,"VPN disconnects every few minutes
+",Network
+2025-03-28 13:01:38,"Wi-Fi signal is weak in my office
+",Network
+2025-03-28 13:01:55,"Cannot access the shared drive on the network
+",Network
+2025-03-28 13:02:07,"Getting DNS error on browser
+",Software
