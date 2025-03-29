@@ -14,7 +14,7 @@ def auto_git_push():
     remote = f"https://{token}@github.com/GunaKanumuri/smart-it-helpdesk.git"
 
     try:
-        subprocess.run(["git", "add", "ticket_logs.csv"], check=True)
+        subprocess.run(["git", "add", "data/ticket_logs.csv"], check=True)
         subprocess.run(["git", "commit", "-m", "📝 Auto-logged ticket from app"], check=True)
         subprocess.run(["git", "push", remote, "main"], check=True)
         return "✅ Auto-pushed to GitHub!"

@@ -1,0 +1,2 @@
+ticket_id,timestamp,user_id,issue_description,category,backend_note,status,action_taken,updated_by,reassigned_to
+TCK1001,2025-03-28 21:20:49,guest,My Laptop wont charge,Hardware,"Primary: Hardware (59.2%), Secondary: Network (20.99%)",Open,done,Guna ,
